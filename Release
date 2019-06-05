@@ -1,0 +1,12 @@
+Origin: KidsAuto
+Label: KidsAuto
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: KidsAuto iOS for Device Model 10.x - 11.4.1
+MD5Sum:
+ 0cfda8ddd384367abac2a880e856deb7 4466 Packages
+ 16f1da18ba27a4c7071c34d1c6a12619 1853 Packages.bz2
+ 099588100607e78b2f1cc252cc9d68b2 1678 Packages.gz
