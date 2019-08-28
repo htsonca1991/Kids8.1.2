@@ -23,9 +23,9 @@ Maintainer: Dev by Tue Mobi
 Section: System
 Tag: role::hacker
 Filename: ./Debs/KidsPrivate821.deb
-Size: 216240
-MD5sum: 31621aa52fa6097d10c087258c9d7e03
-Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger,Veency,com.kidsprivate.icleaner,com.kidsprivate.reprovision
+Size: 216220
+MD5sum: 6e058bc7a80b1b8633455c81f5ee6edc
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger,Veency
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger,com.kidsauto.kidsdaemon
 
 Package: com.kidsauto.locationchanger
