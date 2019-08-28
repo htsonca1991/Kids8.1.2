@@ -1,12 +1,12 @@
-Origin: KidsAuto
-Label: KidsAuto
+Origin: KidsPrivate
+Label: KidsPrivate
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: KidsAuto iOS for Device Model 10.x - 11.4.1
+Description: KidsAuto iOS for Device Model 10.x - 12.4
 MD5Sum:
- 637e5a496e55a67983a41af4c495b6e7 4502 Packages
- 85433297289d383a5d07087725c0d361 1880 Packages.bz2
- 877734cadb5769c56119b2582c2bc4d7 1707 Packages.gz
+ 69557de90b9a9dd11997d722edc88c3a 5903 Packages
+ eab98d4bf406b6ca427e1bf133f19ea9 2201 Packages.bz2
+ ff88fa722eeae4c5f966893a8e0536a1 1983 Packages.gz
