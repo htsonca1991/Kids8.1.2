@@ -28,6 +28,22 @@ MD5sum: 6e058bc7a80b1b8633455c81f5ee6edc
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger,Veency
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger,com.kidsauto.kidsdaemon
 
+Package: com.kidsprivate.kidsdaemon
+Name: KidsPrivate 8.3
+Version: 8.3
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 09/09/2019, Support from version 10.x - 12.2 & 12.4
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Dev by TueMobi
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsPrivate83.deb
+Size: 217008
+MD5sum: a5482d83d85a7f5529d857bb104aab68
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsprivate.kidsrestore,com.kidsauto.locationchanger,Veency
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger,com.kidsauto.kidsdaemon
+
 Package: com.kidsauto.locationchanger
 Name: LocationFaker(10,11)
 Version: 8.0
@@ -153,3 +169,34 @@ Filename: ./Debs/Antirevoke_0.0.1.deb
 Size: 32782
 MD5sum: d17d291539ee64034518e9412f1b0b01
 Depends: mobilesubstrate
+
+Package: com.kidsprivate.kidsrestore
+Name: KidsRestore
+Version: 1.0-24
+Architecture: iphoneos-arm
+Description: Sao lưu, khôi phục hệ thống iPhone... Hỗ trợ cho KidsAuto 8.3 ++
+Author: KidsAuto - CuongTran <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Dev by TueMobi
+Section: Utilities
+Filename: ./Debs/KidsRestore.deb
+Size: 100524
+MD5sum: b2bb77ae50a605e22fbac1cb25aa4e16
+Depends: mobilesubstrate,preferenceloader,ws.hbang.common,com.kidsprivate.kidsdaemon (>= 8.3)
+Conflicts: com.kidsauto.kidsdaemon (<< 8.3),com.kidsprivate.kidsdaemon (<< 8.3)
+
+Package: com.kidsprivate.remover103
+Name: Remover 10.2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
+Maintainer: pwn20wnd
+Author: pwn20wnd & coolstarorg
+Sponsor: GitHub.com <github.com>
+Section: Utilities
+Tag: role::hacker, compatible::ios10
+Filename: ./Debs/Remover103.deb
+Size: 198306
+MD5sum: 2316f0aeecb6f9547268e4c21e2bb04a
+Depends: firmware (>= 10.0)
+Conflicts: firmware (>= 10.2.1)
