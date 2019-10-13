@@ -1,18 +1,3 @@
-Package: com.kidsauto.kidsdaemon
-Name: KidsPrivate
-Version: 8.1.2
-Architecture: iphoneos-arm
-Description: KidsAuto iOS, Support from version 11 - 11.4.1
-Author: KidsAuto - CuongTran <kidsauto11@gmail.com>
-Maintainer: Dev by Tue Mobi
-Section: System
-Tag: role::hacker
-Filename: ./Debs/KidsPrivate812.deb
-Size: 381724
-MD5sum: 4196306e7d68de3f85d91b13453b6744
-Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
-Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
-
 Package: com.kidsprivate.kidsdaemon
 Name: KidsPrivate 8.2.x
 Version: 8.2
