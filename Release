@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: KidsFunny iOS
 MD5Sum:
- 265581941d35233443d88da939a06e6f 11861 Packages
- 79b9fb72f1ec45a40408900d66dd87a3 3804 Packages.bz2
- b9d2369d6f6ab3ee863dbc8a2fc605b9 3658 Packages.gz
+ 89933d519d968ffcd37eb6e941c81d4e 11830 Packages
+ 977378506f13824ffb05ac169e3bd089 3815 Packages.bz2
+ 7f50aaf6231374b3cb4e0b2f3415534d 3653 Packages.gz

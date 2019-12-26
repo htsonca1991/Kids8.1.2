@@ -189,7 +189,7 @@ Conflicts: firmware (>= 10.2.1)
 
 Package: com.kidsfunny.kidsdeviceinfo
 Name: KidsDeviceInfo
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Description: KidsAuto iOS Plugins!
 Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
@@ -197,9 +197,9 @@ Homepage: https://www.facebook.com/groups/1356112074493442
 Maintainer: Developer by Tuệ Mobile
 Section: Plugins
 Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
-Filename: ./Debs/KidsDevinf.deb
-Size: 20546
-MD5sum: 268430c0c29820c17bfb8ddfc0e3e728
+Filename: ./Debs/KidsDeviceInf.deb
+Size: 23624
+MD5sum: c7a50c2e0a4cd8ffccce253c663fa28c
 Depends: mobilesubstrate,preferenceloader,openssh,applist
 Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
 
@@ -212,9 +212,9 @@ Maintainer: Internet
 Author: Internet
 Section: Tweaks
 Filename: ./Debs/KidsByPass2.17.deb
-Size: 185508
-MD5sum: 0cc7919af8c8275c0c96898a5e90fff0
-Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common, com.kidsauto.kidsdaemon (>= 8.3)
+Size: 185512
+MD5sum: ea03e09bc14e17ba5a050baefd319c6f
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
 Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite, com.kidsauto.xcon, com.kidsauto.jailprotect, com.kidsauto.kidsdaemon (<< 8.3)
 
 Package: com.rpgfarm.a-bypass
