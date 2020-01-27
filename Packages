@@ -30,6 +30,22 @@ MD5sum: 0ff759c324d196d92e92073915156c36
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,com.kidsauto.icleaner,ch.ringwald.hidsupport,jp.ashikase.mousesupport,com.kidsprivate.kidsrestore,com.kidsauto.locationchanger,com.kidsfunny.kidsdeviceinfo,com.kidsfunny.appsyncunified
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
 
+Package: com.kidsfunny.kidsdaemon
+Name: KidsPrivate 8.5
+Version: 8.5
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 25/12/2019, Support iOS Version 10.x - 12.2 & 12.4
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Tuệ Mobile
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsPrivate85.deb
+Size: 1718020
+MD5sum: de0ce6f725aaaea4dc8229a631567ce8
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,com.kidsauto.icleaner,ch.ringwald.hidsupport,jp.ashikase.mousesupport,com.kidsprivate.kidsrestore,com.kidsauto.locationchanger,com.kidsfunny.kidsdeviceinfo,com.kidsfunny.appsyncunified
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
+
 Package: com.kidsauto.locationchanger
 Name: LocationFaker(10,11)
 Version: 8.0
