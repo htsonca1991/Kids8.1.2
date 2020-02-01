@@ -31,8 +31,8 @@ Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
 
 Package: com.kidsfunny.kidsdaemon
-Name: KidsPrivate 8.5
-Version: 8.5
+Name: KidsPrivate 8.5.1
+Version: 8.5.1
 Architecture: iphoneos-arm
 Description: KidsAuto iOS Update 25/12/2019, Support iOS Version 10.x - 12.2 & 12.4
 Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
@@ -40,9 +40,9 @@ Homepage: https://www.facebook.com/groups/1356112074493442
 Maintainer: Developer by Tuệ Mobile
 Section: System
 Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
-Filename: ./Debs/KidsPrivate85.deb
-Size: 1718020
-MD5sum: de0ce6f725aaaea4dc8229a631567ce8
+Filename: ./Debs/KidsAuto851.deb
+Size: 1717848
+MD5sum: 3b578fb26cc69d1bb3831565f56690ea
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,com.kidsauto.icleaner,ch.ringwald.hidsupport,jp.ashikase.mousesupport,com.kidsprivate.kidsrestore,com.kidsauto.locationchanger,com.kidsfunny.kidsdeviceinfo,com.kidsfunny.appsyncunified
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
 
