@@ -46,6 +46,22 @@ MD5sum: 3b578fb26cc69d1bb3831565f56690ea
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,com.kidsauto.icleaner,ch.ringwald.hidsupport,jp.ashikase.mousesupport,com.kidsprivate.kidsrestore,com.kidsauto.locationchanger,com.kidsfunny.kidsdeviceinfo,com.kidsfunny.appsyncunified
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-25
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 10/08/2020, Support iOS Version 11 - 12.2 & 12.4 & Checkra1n
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by KidsAuto
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./Debs/KidsAutoPro9.3.5-25.deb
+Size: 619078
+MD5sum: 6b5f03a0fe121734cdd7788d5bfd7986
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
+
 Package: com.kidsauto.locationchanger
 Name: LocationFaker(10,11)
 Version: 8.0
