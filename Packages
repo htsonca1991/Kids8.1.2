@@ -64,7 +64,7 @@ Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdae
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro
-Version: 9.3.5-32
+Version: 9.3.5-33
 Architecture: iphoneos-arm
 Description: Update to Fix Luminati, RRS List (16/09). Support Fully iOS Version 11++
 Author: Developer by Kids
@@ -72,9 +72,9 @@ Homepage: https://www.facebook.com/groups/1356112074493442
 Maintainer: Developer by Kids
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935.32.deb
-Size: 798782
-MD5sum: e374e0b1acc3a1b0c6cebc392fe92fef
+Filename: ./Debs/KidsAuto_935.33.deb
+Size: 797878
+MD5sum: 469c8802a05d553e55e3b3ac15d288c9
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
 
