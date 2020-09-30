@@ -110,6 +110,22 @@ MD5sum: b1a327f1fb209c4caefd3c42b2b5c002
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-41
+Architecture: iphoneos-arm
+Description: Update to Fix Luminati, Merge Hook, Support App Apple System
+Author: Developer by Kids
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Kids
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./Debs/Kidsauto_9.3.5-41.deb
+Size: 825382
+MD5sum: 4665279654fe6c5ec902343ea9fc4a0a
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
+
 Package: com.kidsauto.setting
 Name: KidsSetting
 Version: 1.2-16
