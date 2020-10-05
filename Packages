@@ -158,6 +158,22 @@ MD5sum: 04671a8a59a1a12fa466b15af731b164
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-47
+Architecture: iphoneos-arm
+Description: Update to Fix iMess.!!! Build 05/10/2020
+Author: Developer by Kids
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Kids
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./Debs/KidsAutoPro9.3.5-47.deb
+Size: 823954 
+MD5sum: c870a6a41fa038b039b95c03039e87e7
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
+
 Package: com.kidsauto.setting
 Name: KidsSetting
 Version: 1.2-16
