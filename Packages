@@ -32,134 +32,6 @@ Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdae
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro
-Version: 9.3.5-29
-Architecture: iphoneos-arm
-Description: Update for Test SysCTL 07/09/2020, Support Fully iOS Version 11++
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935.29_Sys.deb
-Size: 597704
-MD5sum: 9aa2b0298effb57c553d653b9528c920
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-30
-Architecture: iphoneos-arm
-Description: Update for Test Remove SysCTL 07/09/2020, Support Fully iOS Version 11++
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935.30.deb
-Size: 597016
-MD5sum: 8d78de8c06bead7b63fd967e4648ffcf
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-33
-Architecture: iphoneos-arm
-Description: Update to Fix Luminati, RRS List (16/09). Support Fully iOS Version 11++
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935.33.deb
-Size: 797878
-MD5sum: 469c8802a05d553e55e3b3ac15d288c9
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-38
-Architecture: iphoneos-arm
-Description: Update to Fix Luminati, RRS List (16/09). Support Fully iOS Version 11++
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935.38.deb
-Size: 797610
-MD5sum: ae6b242ce64300b758377332f84a0b7a
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-39
-Architecture: iphoneos-arm
-Description: Update to Fix Luminati, Merge Hook, Support App Apple System
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935.39.deb
-Size: 821812
-MD5sum: b1a327f1fb209c4caefd3c42b2b5c002
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-41
-Architecture: iphoneos-arm
-Description: Update to Fix Luminati, Merge Hook, Support App Apple System
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/Kidsauto_9.3.5-41.deb
-Size: 825382
-MD5sum: 4665279654fe6c5ec902343ea9fc4a0a
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-43
-Architecture: iphoneos-arm
-Description: Update to Fix Luminati.!!! Build 03/10/2020
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsautoPro_9.3.5-43.deb
-Size: 819680 
-MD5sum: 64ccc5935cce62706dc91a906f74cda0
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-44
-Architecture: iphoneos-arm
-Description: Update to Use Luminati.!!! Build 03/10/2020
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAuto_935-44.deb
-Size: 820964 
-MD5sum: 04671a8a59a1a12fa466b15af731b164
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
 Version: 9.3.5-47
 Architecture: iphoneos-arm
 Description: Update to Fix iMess.!!! Build 05/10/2020
@@ -171,6 +43,22 @@ Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoPro9.3.5-47.deb
 Size: 823954 
 MD5sum: c870a6a41fa038b039b95c03039e87e7
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
+
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-51
+Architecture: iphoneos-arm
+Description: Update to Fix iMess.!!! Build 10/10/2020
+Author: Developer by Kids
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Kids
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./Debs/KidsAutoPro9.3.5-51.deb
+Size: 849978 
+MD5sum: 58cf182fdd7021a05b5b75f47824596f
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
