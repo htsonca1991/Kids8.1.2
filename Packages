@@ -32,33 +32,17 @@ Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdae
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro
-Version: 9.3.5-47
+Version: 9.3.5-52
 Architecture: iphoneos-arm
-Description: Update to Fix iMess.!!! Build 05/10/2020
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
+Description: Update to Fix iMess.!!! Build 19/10/2020
+Author: Kids
+Homepage: Kids
+Maintainer: Kids
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAutoPro9.3.5-47.deb
-Size: 823954 
-MD5sum: c870a6a41fa038b039b95c03039e87e7
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-51
-Architecture: iphoneos-arm
-Description: Update to Fix iMess.!!! Build 10/10/2020
-Author: Developer by Kids
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAutoPro9.3.5-51.deb
-Size: 849978 
-MD5sum: 58cf182fdd7021a05b5b75f47824596f
+Filename: ./Debs/KidsAutoPro_9.3.5-52.deb
+Size: 879296 
+MD5sum: 8d900831f3357d1c69bbe7c94923c542
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
