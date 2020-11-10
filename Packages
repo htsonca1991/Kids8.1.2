@@ -78,6 +78,22 @@ MD5sum: 43536661964c9e07a5844cf0199d5dc9
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-81
+Architecture: iphoneos-arm
+Description: Update News Func. Fix Lumi - Socks5!!! Build 10/11//2020
+Author: Kids
+Homepage: Kids
+Maintainer: Kids
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./Debs/KidsAutoPro_9.3.5-81.deb
+Size: 930584 
+MD5sum: d89ebd2549d3914866472415144ac803
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
+
 Package: com.kidsauto.setting
 Name: KidsSetting
 Version: 1.2-16
