@@ -94,6 +94,22 @@ MD5sum: ce38f5daf86d5f040af2eba067235c2e
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-91
+Architecture: iphoneos-arm
+Description: Update News Func. Fix 911 - Fix CheckIP Thread!!! Build 07/12//2020
+Author: Kids
+Homepage: Kids
+Maintainer: Kids
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./Debs/KidsAutoPro_9.3.5-91.deb
+Size: 885840 
+MD5sum: f91fb4a263512239accccc4fb38ef8f7
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
+
 Package: com.kidsauto.setting
 Name: KidsSetting
 Version: 1.2-16
