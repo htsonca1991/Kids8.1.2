@@ -92,6 +92,20 @@ MD5sum: 2967f8beb786388fdcaf68753663ac5b
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.kidsprivate.kidsrestore, com.kidsauto.sslkillswitch2
 
+Package: com.kidsauto.setting
+Name: KidsSetting
+Version: 1.6.23
+Architecture: iphoneos-arm
+Description: Utilities to support Pro Version!!!
+Author: Grimm272
+Maintainer: Grimm272
+Section: Tweaks
+Filename: ./Debs/KidsSetting_1.6.23.deb
+Size: 48680
+MD5sum: 073d5697c728eb6a37969dc497527f3f
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.kidsprivate.kidsrestore, com.kidsauto.sslkillswitch2
+
 Package: com.ryleyangus.libertylite
 Name: Liberty Lite
 Architecture: iphoneos-arm
@@ -105,6 +119,21 @@ Filename: ./Debs/LibertyLite8.deb
 Size: 78350
 MD5sum: 94702173d002644394b5e245a2479963
 Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
+Conflicts: com.ryleyangus.liberty
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite (Beta)
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Section: Tweaks
+Filename: ./Debs/LibertyLite_0.2.12.deb
+Size: 82368
+MD5sum: 8118ce37c977cdf9631b19fc492a5172
+Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.ryleyangus.liberty
 
 Package: com.kidsprivate.jailbreakbypass
@@ -140,33 +169,51 @@ MD5sum: e55286a7f39503142579f145fe60a4ed
 Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
 Conflicts: org.altervista.exilecom.icleaner
 
-Package: com.rpgfarm.a-bypass
-Name: A-Bypass
-Version: 1.0.4
+Package: kr.xsf1re.flyjbx
+Name: FlyJB X
+Version: 1.2.5
 Architecture: iphoneos-arm
-Description: Chặn phát hiện Jailbreak - Root!
-Maintainer: Baw Appie <pp121324@gmail.com>
-Author: Baw Appie <pp121324@gmail.com>
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
 Section: Tweaks
-Filename: ./Debs/A-BypassJailbreak.deb
-Size: 48878
-MD5sum: 87cb38d2722566e407b2ae00f1225f90
-Depends: mobilesubstrate, applist
+Filename: ./Debs/kr.xsf1re.flyjbx_1.2.5.deb
+Size: 649864
+MD5sum: 5e955e26724e79ff8ca45032679f9cd9
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Installed-Size: 1580
 
-Package: com.kidsfunny.appsyncunified
+Package: cydia.net.angelxwind.appsyncunified
 Name: AppSync Unified
-Version: 70.0
+Version: 90.0
 Architecture: iphoneos-arm
-Replaces: us.hackulo.appsync50
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Homepage: https://cydia.akemi.ai/
 Provides: appsync
+Replaces: us.hackulo.appsync50
 Section: Utilities
-Filename: ./Debs/Appsync.deb
-Size: 64056
-MD5sum: 5e9065e02dbfcd4bffb04f6fcee8c1b6
-Depends: firmware (>= 5.0), firmware (<= 13.3.1), mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Filename: ./Debs/AppSync14.deb
+Size: 88434
+MD5sum: 83ce085197f22e3587924f8e2211e07a
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+
+Package: com.julioverne.screendump13
+Name: screendump (iOS 13)
+Version: 0.0.3d
+Architecture: iphoneos-arm
+Description: VNC for ios
+Maintainer: Julio
+Author: julioverne, Sharat M R
+Section: Tweaks
+Filename: ./Debs/com.julioverne.screendump13_0.0.3d.deb
+Size: 1540664
+MD5sum: b7b5404ea02c605e112723b64ecb2bad
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
+Icon: file:///Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump
