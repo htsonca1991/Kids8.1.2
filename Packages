@@ -1,19 +1,3 @@
-Package: com.kidsfunny.kidsdaemon
-Name: KidsPrivate 8.5.1
-Version: 8.5.1
-Architecture: iphoneos-arm
-Description: KidsAuto iOS Update 25/12/2019, Support iOS Version 10.x - 12.2 & 12.4
-Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Tuệ Mobile
-Section: System
-Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
-Filename: ./Debs/KidsAuto851.deb
-Size: 1717848
-MD5sum: 3b578fb26cc69d1bb3831565f56690ea
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,com.kidsauto.icleaner,ch.ringwald.hidsupport,jp.ashikase.mousesupport,com.kidsprivate.kidsrestore,com.kidsauto.locationchanger,com.kidsfunny.kidsdeviceinfo,com.kidsfunny.appsyncunified
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
-
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro
 Version: 9.3.5-25
@@ -29,54 +13,6 @@ Size: 619078
 MD5sum: 6b5f03a0fe121734cdd7788d5bfd7986
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4)
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-52
-Architecture: iphoneos-arm
-Description: Update to Fix iMess.!!! Build 19/10/2020
-Author: Kids
-Homepage: Kids
-Maintainer: Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAutoPro_9.3.5-52.deb
-Size: 879296 
-MD5sum: 8d900831f3357d1c69bbe7c94923c542
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-57
-Architecture: iphoneos-arm
-Description: Update to Fix iTune.!!! Build 25/10/2020
-Author: Kids
-Homepage: Kids
-Maintainer: Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAutoProv9_9.3.5-57.deb
-Size: 955744 
-MD5sum: 24686f9b61a2df04770daa74861ebdaa
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
-
-Package: com.kidsautopro.kidsauto
-Name: KidsAuto Pro
-Version: 9.3.5-80
-Architecture: iphoneos-arm
-Description: Update News Func.!!! Build 04/11//2020
-Author: Kids
-Homepage: Kids
-Maintainer: Kids
-Section: System
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsAutoPro_9.3.5-80.deb
-Size: 930518 
-MD5sum: 43536661964c9e07a5844cf0199d5dc9
-Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
-Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro
@@ -126,6 +62,22 @@ MD5sum: 46871cedaf5338794ac86b9ee7fa3c0d
 Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
 
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro
+Version: 9.3.5-128
+Architecture: iphoneos-arm
+Description: Update News!!! Build 12/04/2021
+Author: Kids
+Homepage: Kids
+Maintainer: Kids
+Section: System
+Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Filename: ./Debs/KidsAutov9_Pri-128.deb
+Size: 933910 
+MD5sum: c964b767ff56f555d23a312deeef45e7
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.kidsdaemon,com.kidsprivate.kidsdaemon (<< 8.4),com.kidsauto.mobilegestalt
+
 Package: com.kidsauto.setting
 Name: KidsSetting
 Version: 1.2-16
@@ -139,52 +91,6 @@ Size: 61196
 MD5sum: 2967f8beb786388fdcaf68753663ac5b
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.kidsprivate.kidsrestore, com.kidsauto.sslkillswitch2
-
-Package: com.kidsfunny.kidsdeviceinfo
-Name: KidsDeviceInfo
-Version: 0.2
-Architecture: iphoneos-arm
-Description: KidsAuto iOS Plugins!
-Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
-Homepage: https://www.facebook.com/groups/1356112074493442
-Maintainer: Developer by Tuệ Mobile
-Section: Plugins
-Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
-Filename: ./Debs/KidsDeviceInf.deb
-Size: 23624
-MD5sum: c7a50c2e0a4cd8ffccce253c663fa28c
-Depends: mobilesubstrate,preferenceloader,openssh,applist
-Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
-
-Package: com.kidsauto.mobilegestalt
-Name: Kids MobileGestalt
-Version: 1.0-1
-Architecture: iphoneos-arm
-Description: Tweak for hooking mobilegestalt dylib!
-Author: Grimm272
-Homepage: Grimm272
-Maintainer: Grimm272
-Section: Plugins
-Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./Debs/KidsHookMobile101.deb
-Size: 68174
-MD5sum: 965fbb0e0f016ea93935728c43c5fda3
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.kidsautopro.kidsauto (<= 9.3.5-28)
-
-Package: com.kidsauto.sslkillswitch2
-Name: SSLKillSwitch 2
-Architecture: iphoneos-arm
-Version: 2.0.2
-Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
-Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
-Author: Alban Diquet <nabla.c0d3@gmail.com>
-Section: Tweaks
-Filename: ./Debs/SslKill_812.deb
-Size: 10614
-MD5sum: ac6507e87c89383090384f9fd3a21d86
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2,com.isecpartners.nabla.sslkillswitch
 
 Package: com.ryleyangus.libertylite
 Name: Liberty Lite
@@ -201,22 +107,6 @@ MD5sum: 94702173d002644394b5e245a2479963
 Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
 Conflicts: com.ryleyangus.liberty
 
-Package: com.hackyouriphone.upscale
-Name: Upscale
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Change Device Resolution
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=upscale
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=upscale
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
-Author: bd452, julioverne <repo@hackyouriphone.org>
-Section: Tweaks
-Filename: ./Debs/UpScale.deb
-Size: 19988
-MD5sum: 513c025a03774e7c4951d34292b68b59
-Depends: mobilesubstrate, firmware (<= 10.3.3)
-Conflicts: com.bd452.upscale
-
 Package: com.kidsprivate.jailbreakbypass
 Name: JailBreakByPass 1.2.1
 Version: 1.2.1
@@ -230,27 +120,6 @@ Size: 18264
 MD5sum: 1c3512b3e42d43a5e3096be4c65bb93f
 Depends: mobilesubstrate
 Conflicts: com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2,com.kidsauto.sslkillswitch,com.isecpartners.nabla.sslkillswitch
-
-Package: com.matchstic.reprovision
-Name: ReProvision
-Version: 0.4.4
-Architecture: iphoneos-arm
-Description: Tự động gia hạn chứng chỉ cho các App Jailbreak
-Priority: optional
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
-Maintainer: Matt Clarke <matt@incendo.ws>
-Homepage: https://github.com/Matchstic/Extender-Installer
-Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Section: Utilities
-Filename: ./Debs/ReProvision044.deb
-Size: 10669494
-MD5sum: 81fc2432c268f9eaf4f4311ff17b2775
-Depends: firmware (>= 9.0)
-Conflicts: com.hackyouriphone.reprovision
 
 Package: com.kidsauto.icleaner
 Name: iCleaner
@@ -270,22 +139,6 @@ Size: 9872624
 MD5sum: e55286a7f39503142579f145fe60a4ed
 Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
 Conflicts: org.altervista.exilecom.icleaner
-
-Package: com.kidsprivate.remover103
-Name: Remover 10.2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
-Maintainer: pwn20wnd
-Author: pwn20wnd & coolstarorg
-Sponsor: GitHub.com <github.com>
-Section: Utilities
-Tag: role::hacker, compatible::ios10
-Filename: ./Debs/Remover103.deb
-Size: 198306
-MD5sum: 2316f0aeecb6f9547268e4c21e2bb04a
-Depends: firmware (>= 10.0)
-Conflicts: firmware (>= 10.2.1)
 
 Package: com.rpgfarm.a-bypass
 Name: A-Bypass
